@@ -107,32 +107,6 @@
 
 ---
 
-## Contact & Collaboration
-
-<div align="center">
-
-### Only serious inquiries from verified security professionals
-
-<br>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-      <p>Encrypted communication preferred</p>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
-      <p>Secure email correspondence</p>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Signal-2592E9?style=for-the-badge&logo=signal&logoColor=white" />
-      <p>End-to-end encrypted calls</p>
-    </td>
-  </tr>
-</table>
-
-<br>
 
 > **Disclaimer**: All activities are conducted in legal, authorized environments
 > for educational and defensive security purposes only.
