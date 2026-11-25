@@ -1,25 +1,6 @@
-# <img src="https://github.com/user-attachments/assets/c9434506-3a3b-4968-8e82-43d0c3b85153" width="40" height="40" /> mlllosVn | r00tTeam
 
-<div align="center">
-  
-<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=▄▀▄▀▄+R3V3R53+ENG1N33R1NG+▄▀▄▀▄;▄▀▄▀▄+PR1V4T3+M4LWA23+D3V+▄▀▄▀▄;▄▀▄▀▄+P3N3TRA710N+7E5T3R+▄▀▄▄" alt="Typing SVG" />
-
-<br>
-
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Penetration_Testing-9057FF?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Malware_Engineering-FF0000?style=for-the-badge&logo=virustotal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Exploit_Dev-00AAFF?style=for-the-badge&logo=c&logoColor=white" />
-</div>
-
-</div>
-
----
-
-## Technical Arsenal
+## whotfilv
 
 <table align="center">
   <tr>
@@ -54,9 +35,9 @@
 
 ---
 
-<div align="center">
 
-## Binary Warfare Statistics
+
+## skill issues
 
 <br>
 
